@@ -1,4 +1,14 @@
-### Hi there 👋
+## boas vindas ao meu perfil🥢
+
+meu nome é vitor Henrique Quandt.
+. Estou aprendendo a programar com a plataforma Alura.
+. Me interessam as linguagens de programação; JavaScript e Scratch.
+. Tambem estou aprendendo as linguagens de marcação; HTML e CSS
+. Utilizo este espaço para salvar meus projetos e compartilhar meus códigos.
+
+## meu e-mail para contato é 
+
+vitor.quandt@escola.pr.gov.br
 
 <!--
 **quandtvitor/quandtvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
