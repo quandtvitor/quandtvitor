@@ -10,6 +10,9 @@ meu nome é vitor Henrique Quandt.
 
 vitor.quandt@escola.pr.gov.br
 
+![](https://media.tenor.com/ullYsfSswRwAAAAC/poweredxpeople-powered-by-people.gif)
+
+
 <!--
 **quandtvitor/quandtvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
